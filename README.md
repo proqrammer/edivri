@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 I build and test beautiful, stable and high-quality front-end applications.
 
 
-### State Management: Vanilla / Redux
-### Test: Mocha / Chai / Enzyme / Jest /Puppeteer 
-### Automation: Appium Framework / WebdriverIO Framework
-### Cloud: AWS Lambda & Serverless API / AWS DynamoDB / Google Cloud Functions
+### State Management👉 Vanilla / Redux
+### Test👉 Mocha / Chai / Enzyme / Jest / Puppeteer 
+### Automation👉 Appium Framework / WebdriverIO Framework
+### Cloud👉 AWS Lambda & Serverless API / AWS DynamoDB / Google Cloud Functions
 ## 🛠&nbsp;Tech Stack
 ![Tailwind](https://img.shields.io/badge/-Tailwind-ffffff?style=flat&logo=tailwind&logoColor=007ACC)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react&logoColor=007ACC)&nbsp;
