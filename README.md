@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there 👋, I'm Edivri
 ## I Am A Front-end Engineer <br>
-I build and test beautiful, stable and high-quality front-end applications.
+I build and test beautiful, stable and high-quality front-end applications. <br>
+TDD Inclined
 
 
 ### State Management👉 Vanilla / Redux
