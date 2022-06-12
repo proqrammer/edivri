@@ -10,7 +10,7 @@ I build and test beautiful, stable and high-quality front-end applications.
 ### State Management👉 Vanilla / Redux
 ### Test👉 Mocha / Chai / Enzyme / Jest / Puppeteer 
 ### Automation👉 Appium Framework / WebdriverIO Framework
-### Cloud👉 AWS Lambda & Serverless API / AWS DynamoDB / Google Cloud Functions
+### Cloud👉 AWS Lambda & Serverless API / AWS DynamoDB 
 ## 🛠&nbsp;Tech Stack
 ![Tailwind](https://img.shields.io/badge/-Tailwind-ffffff?style=flat&logo=tailwind&logoColor=007ACC)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react&logoColor=007ACC)&nbsp;
@@ -30,7 +30,7 @@ I build and test beautiful, stable and high-quality front-end applications.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivri&layout=compact&hide_border=true&theme=light" />
 </a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://#)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/edivri)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/#)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://#)  
 
 
 
